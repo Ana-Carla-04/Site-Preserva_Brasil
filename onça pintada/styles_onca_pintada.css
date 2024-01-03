@@ -1,0 +1,136 @@
+:root{
+	--branco-principal: #FFFFFF;
+	--cinza-secundario: #C0C0C0;
+	--preto: #000000;
+	--bege: #fcf3ed;
+	--bege-claro: #fcf6dc;
+	--azul: #1c81a3;
+	--verde-escuro: #214d2d;
+	--verde-clarinho: #f5fcf5;
+	--fonte-principal: 'Inter';
+
+}
+
+.introducao{
+	display: flex; 
+	
+}
+
+.ft_onca_intro{
+	width: 110%;
+	margin: 3em 1em;
+}
+
+.paragrafo1{
+	margin: 1em 1em 3em 4em;
+	padding: 0;
+	font-size: 25px;
+	font-weight: 400;
+}
+
+.titulo{
+	margin: 3em 1em 2em 4em;
+}
+
+.comportamento{
+	display: flex;
+}
+
+.text_comportamento{
+	font-size: 20px;
+}
+
+.titulo_comportamento{
+	margin: 1em 2.5em;
+}
+
+.ft-onca-pintada-comportamento{
+	margin: 1em 2em 1em 0em; 
+
+}
+
+.dt{
+	margin: 1em 2em 0em 1em;
+}
+
+.dd{
+	margin: 0em 2em  1em 2em;
+}
+
+.habitat{
+	display: flex;
+}
+
+.ft_onca_pintada_habitat{
+	width: 90%;
+	margin: 1em 0em 2em 2em;
+}
+
+.titulo_habitat{
+	margin: 4em 0em 0.5em 2.3em;
+}
+
+.habitat_brev{
+	margin: 0em 2em 2em 1.5;
+
+}
+
+.text_habitat{
+	font-size: 20px;
+}
+
+.titulo_dieta{
+	margin: 1em 2.5em;
+
+}
+
+.dieta{
+	display: flex;
+	font-size: 20px;
+}
+
+.ft_onca_pintada_dieta{
+	width: 80%;
+}
+
+.titulo_conservação{
+	text-align: center;
+}
+
+.titulo_ameaças{
+	text-align: center;
+
+}
+
+.ameaças{
+	border: solid var(--bege-claro);
+	margin: 1em 1.3em 2em 2em;
+}
+
+.conservação{
+	border: solid var(--bege-claro);
+	margin: 1em 2em 2em 1.3em;
+}
+
+.ameaças_e_conservação{
+	display: flex;
+	margin-top: 5em;
+	font-size: 20px;
+}
+
+.curiosidades{
+	display: flex;
+}
+
+.text_curiosidades{
+	font-size: 20px;
+}
+
+.titulo_curiosidades{
+	margin: 1em 2.5em;
+}
+
+.ft_onca_pintada_curiosidades{
+	margin: 1em 2em;
+}
+
