@@ -1,0 +1,22 @@
+:root{
+	--branco-principal: #FFFFFF;
+	--cinza-secundario: #C0C0C0;
+	--preto: #000000;
+	--bege: #fcf3ed;
+	--bege-claro: #fcf6dc;
+	--azul: #1c81a3;
+	--fonte-principal: 'Inter';
+
+}
+
+.text_onca{
+	text-decoration: none; /* Remove sublinhado dos links */
+    color: var(--preto); /* Cor dos links no cabeçalho */
+    font-weight: bold; /* Deixa o texto do link em negrito */
+     font-size:  1.2em;
+}
+
+.text_onca:hover{
+	color: var(--azul);
+
+}
